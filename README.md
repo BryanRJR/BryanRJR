@@ -49,11 +49,8 @@
 ---
 
 ### :fire: My Stats :
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanRJR&layout=compact"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BryanRJR&show_icons=true&theme=radical"/>
 
 ---
-
-### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
