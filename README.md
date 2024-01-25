@@ -12,13 +12,9 @@
     </a>
   </div>
   <br>
-  <h1>
-   # Hi, there, I'm Bryan! 👋
-  
-  </h1>
 </div>
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+there%2C+I'm+Bryan!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCF7F5&background=8219FFB3&center=true&vCenter=true&random=false&width=470&height=60&lines=Hi%2C+there%2C+I'm+Bryan+Rantung" alt="Typing SVG" /></a>
 </div>
 
 ---
