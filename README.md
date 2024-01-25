@@ -14,11 +14,11 @@
   <br>
   <h1>
    # Hi, there, I'm Bryan! 👋
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+there%2C+I'm+Bryan!" alt="Typing SVG" /></a>
+  
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+there%2C+I'm+Bryan!" alt="Typing SVG" /></a>
 </div>
 
 ---
