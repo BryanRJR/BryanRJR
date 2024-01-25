@@ -14,28 +14,7 @@
   <br>
   <h1>
    # Hi, there, I'm Bryan! 👋
-    <svg viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .small {
-      font: italic 13px sans-serif;
-    }
-    .heavy {
-      font: bold 30px sans-serif;
-    }
-
-    /* Note that the color of the text is set with the    *
-     * fill property, the color property is for HTML only */
-    .Rrrrr {
-      font: italic 40px serif;
-      fill: red;
-    }
-  </style>
-
-  <text x="20" y="35" class="small">Hi</text>
-  <text x="40" y="35" class="heavy">There</text>
-  <text x="50" y="50" class="small">i'm</text>
-  <text x="65" y="55" class="Rrrrr">Bryan Rantung</text>
-</svg>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+there%2C+I'm+Bryan!" alt="Typing SVG" /></a>
   </h1>
 </div>
 <div align="center">
